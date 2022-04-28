@@ -121,5 +121,7 @@ Content! :joy:
 
 `Content! :joy:`
 
+[ENLACE A AYUDA GIT](https://github.com/danibl10/danibl10/blob/main/git.md)
+
 [^1]: Esta és la nota al peu.
 
